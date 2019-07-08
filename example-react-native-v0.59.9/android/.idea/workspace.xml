@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c1f529d-1235-48be-b6d3-6021d3b5dfdc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/.buckconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/.flowconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/.watchmanconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/app/BUCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/app/src/main/java/com/examplecocoapods/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/app/src/main/java/com/examplecocoapods/MainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/keystores/BUCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/keystores/debug.keystore.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/ExampleCocoapods-tvOS/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/ExampleCocoapods-tvOSTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/ExampleCocoapods.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/ExampleCocoapods.xcodeproj/xcshareddata/xcschemes/ExampleCocoapods-tvOS.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/ExampleCocoapods.xcodeproj/xcshareddata/xcschemes/ExampleCocoapods.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/ExampleCocoapods.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/ExampleCocoapods/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/ExampleCocoapods/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/ExampleCocoapods/Base.lproj/LaunchScreen.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/ExampleCocoapods/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/ExampleCocoapods/Images.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/ExampleCocoapods/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/ExampleCocoapods/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/ExampleCocoapodsTests/ExampleCocoapodsTests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/ExampleCocoapodsTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Podfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTAccessibilityManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTActivityIndicatorView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTActivityIndicatorViewManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTAlertManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTAnimationType.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTAppState.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTAssert.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTAsyncLocalStorage.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTAutoInsetsProtocol.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTBorderDrawing.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTBorderStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTBridge+Private.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTBridge.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTBridgeDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTBridgeMethod.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTBridgeModule.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTBundleURLProvider.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTClipboard.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTComponent.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTComponentData.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTConvert+CoreLocation.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTConvert+Transform.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTConvert.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTCxxConvert.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTDatePicker.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTDatePickerManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTDefines.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTDevSettings.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTDeviceInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTDisplayLink.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTErrorCustomizer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTErrorInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTEventDispatcher.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTEventEmitter.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTExceptionsManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTFPSGraph.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTFont.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTFrameUpdate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTI18nManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTI18nUtil.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTImageSource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTInvalidating.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTJSCErrorHandling.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTJSCSamplingProfiler.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTJSStackFrame.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTJavaScriptExecutor.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTJavaScriptLoader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTKeyCommands.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTKeyboardObserver.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTLayout.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTLayoutAnimation.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTLayoutAnimationGroup.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTLog.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTMacros.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTManagedPointer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTMaskedView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTMaskedViewManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTModalHostView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTModalHostViewController.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTModalHostViewManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTModalManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTModuleData.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTModuleMethod.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTMultipartDataTask.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTMultipartStreamReader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTNavItem.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTNavItemManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTNavigator.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTNavigatorManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTNullability.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTParserUtils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTPerformanceLogger.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTPicker.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTPickerManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTPlatform.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTPointerEvents.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTProfile.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTProgressViewManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTRedBox.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTRedBoxExtraDataViewController.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTRefreshControl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTRefreshControlManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTReloadCommand.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTRootContentView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTRootShadowView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTRootView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTRootViewDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTRootViewInternal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTSafeAreaShadowView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTSafeAreaView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTSafeAreaViewLocalData.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTSafeAreaViewManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTScrollContentShadowView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTScrollContentView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTScrollContentViewManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTScrollView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTScrollViewManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTScrollableProtocol.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTSegmentedControl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTSegmentedControlManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTShadowView+Internal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTShadowView+Layout.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTShadowView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTSlider.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTSliderManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTSourceCode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTStatusBarManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTSurface.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTSurfaceDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTSurfaceHostingProxyRootView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTSurfaceHostingView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTSurfaceRootShadowView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTSurfaceRootShadowViewDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTSurfaceRootView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTSurfaceSizeMeasureMode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTSurfaceStage.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTSurfaceView+Internal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTSurfaceView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTSwitch.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTSwitchManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTTabBar.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTTabBarItem.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTTabBarItemManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTTabBarManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTTextDecorationLineType.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTTiming.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTTouchEvent.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTTouchHandler.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTUIManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTUIManagerObserverCoordinator.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTUIManagerUtils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTUIUtils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTURLRequestDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTURLRequestHandler.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTUtils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTVersion.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTViewManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTWKWebView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTWKWebViewManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTWebView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTWebViewManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/RCTWrapperViewController.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/UIView+Private.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/React/React/UIView+React.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/react-native-date-picker/DatePicker.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/react-native-date-picker/RNDatePickerManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/yoga/Utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/yoga/YGConfig.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/yoga/YGEnums.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/yoga/YGFloatOptional.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/yoga/YGLayout.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/yoga/YGMacros.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/yoga/YGNode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/yoga/YGNodePrint.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/yoga/YGStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/yoga/Yoga-internal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Private/yoga/Yoga.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTAccessibilityManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTActivityIndicatorView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTActivityIndicatorViewManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTAlertManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTAnimationType.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTAppState.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTAssert.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTAsyncLocalStorage.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTAutoInsetsProtocol.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTBorderDrawing.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTBorderStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTBridge+Private.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTBridge.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTBridgeDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTBridgeMethod.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTBridgeModule.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTBundleURLProvider.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTClipboard.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTComponent.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTComponentData.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTConvert+CoreLocation.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTConvert+Transform.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTConvert.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTCxxConvert.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTDatePicker.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTDatePickerManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTDefines.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTDevSettings.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTDeviceInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTDisplayLink.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTErrorCustomizer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTErrorInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTEventDispatcher.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTEventEmitter.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTExceptionsManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTFPSGraph.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTFont.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTFrameUpdate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTI18nManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTI18nUtil.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTImageSource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTInvalidating.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTJSCErrorHandling.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTJSCSamplingProfiler.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTJSStackFrame.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTJavaScriptExecutor.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTJavaScriptLoader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTKeyCommands.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTKeyboardObserver.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTLayout.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTLayoutAnimation.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTLayoutAnimationGroup.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTLog.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTMacros.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTManagedPointer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTMaskedView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTMaskedViewManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTModalHostView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTModalHostViewController.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTModalHostViewManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTModalManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTModuleData.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTModuleMethod.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTMultipartDataTask.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTMultipartStreamReader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTNavItem.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTNavItemManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTNavigator.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTNavigatorManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTNullability.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTParserUtils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTPerformanceLogger.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTPicker.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTPickerManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTPlatform.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTPointerEvents.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTProfile.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTProgressViewManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTRedBox.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTRedBoxExtraDataViewController.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTRefreshControl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTRefreshControlManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTReloadCommand.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTRootContentView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTRootShadowView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTRootView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTRootViewDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTRootViewInternal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTSafeAreaShadowView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTSafeAreaView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTSafeAreaViewLocalData.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTSafeAreaViewManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTScrollContentShadowView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTScrollContentView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTScrollContentViewManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTScrollView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTScrollViewManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTScrollableProtocol.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTSegmentedControl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTSegmentedControlManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTShadowView+Internal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTShadowView+Layout.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTShadowView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTSlider.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTSliderManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTSourceCode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTStatusBarManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTSurface.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTSurfaceDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTSurfaceHostingProxyRootView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTSurfaceHostingView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTSurfaceRootShadowView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTSurfaceRootShadowViewDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTSurfaceRootView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTSurfaceSizeMeasureMode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTSurfaceStage.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTSurfaceView+Internal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTSurfaceView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTSwitch.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTSwitchManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTTabBar.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTTabBarItem.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTTabBarItemManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTTabBarManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTTextDecorationLineType.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTTiming.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTTouchEvent.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTTouchHandler.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTUIManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTUIManagerObserverCoordinator.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTUIManagerUtils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTUIUtils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTURLRequestDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTURLRequestHandler.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTUtils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTVersion.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTViewManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTWKWebView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTWKWebViewManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTWebView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTWebViewManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/RCTWrapperViewController.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/UIView+Private.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/React/React/UIView+React.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/react-native-date-picker/DatePicker.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/react-native-date-picker/RNDatePickerManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/yoga/YGEnums.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/yoga/YGMacros.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Headers/Public/yoga/Yoga.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Local Podspecs/React.podspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Local Podspecs/react-native-date-picker.podspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Local Podspecs/yoga.podspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Manifest.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Pods.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Target Support Files/Pods-ExampleCocoapods/Pods-ExampleCocoapods-acknowledgements.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Target Support Files/Pods-ExampleCocoapods/Pods-ExampleCocoapods-acknowledgements.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Target Support Files/Pods-ExampleCocoapods/Pods-ExampleCocoapods-dummy.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Target Support Files/Pods-ExampleCocoapods/Pods-ExampleCocoapods-frameworks.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Target Support Files/Pods-ExampleCocoapods/Pods-ExampleCocoapods-resources.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Target Support Files/Pods-ExampleCocoapods/Pods-ExampleCocoapods.debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Target Support Files/Pods-ExampleCocoapods/Pods-ExampleCocoapods.release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Target Support Files/Pods-ExampleCocoapodsTests/Pods-ExampleCocoapodsTests-acknowledgements.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Target Support Files/Pods-ExampleCocoapodsTests/Pods-ExampleCocoapodsTests-acknowledgements.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Target Support Files/Pods-ExampleCocoapodsTests/Pods-ExampleCocoapodsTests-dummy.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Target Support Files/Pods-ExampleCocoapodsTests/Pods-ExampleCocoapodsTests-frameworks.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Target Support Files/Pods-ExampleCocoapodsTests/Pods-ExampleCocoapodsTests-resources.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Target Support Files/Pods-ExampleCocoapodsTests/Pods-ExampleCocoapodsTests.debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Target Support Files/Pods-ExampleCocoapodsTests/Pods-ExampleCocoapodsTests.release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Target Support Files/React/React-dummy.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Target Support Files/React/React-prefix.pch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Target Support Files/React/React.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Target Support Files/react-native-date-picker/react-native-date-picker-dummy.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Target Support Files/react-native-date-picker/react-native-date-picker-prefix.pch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Target Support Files/react-native-date-picker/react-native-date-picker.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Target Support Files/yoga/yoga-dummy.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Target Support Files/yoga/yoga-prefix.pch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/ios/Pods/Target Support Files/yoga/yoga.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-cocoapods/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/.buckconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/.flowconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/.watchmanconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/__tests__/App-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/app/BUCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/app/build_defs.bzl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/app/src/main/java/com/rn598/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/app/src/main/java/com/rn598/MainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/keystores/BUCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/keystores/debug.keystore.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/ios/rn598-tvOS/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/ios/rn598-tvOSTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/ios/rn598.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/ios/rn598.xcodeproj/xcshareddata/xcschemes/rn598-tvOS.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/ios/rn598.xcodeproj/xcshareddata/xcschemes/rn598.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/ios/rn598/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/ios/rn598/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/ios/rn598/Base.lproj/LaunchScreen.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/ios/rn598/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/ios/rn598/Images.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/ios/rn598/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/ios/rn598/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/ios/rn598Tests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/ios/rn598Tests/rn598Tests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/metro.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../example-react-native-v0.59.8/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.buckconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.flowconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.watchmanconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__tests__/App-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/BUCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build_defs.bzl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/rn599/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/rn599/MainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keystores/BUCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keystores/debug.keystore.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/rn599-tvOS/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/rn599-tvOSTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/rn599.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/rn599.xcodeproj/xcshareddata/xcschemes/rn599-tvOS.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/rn599.xcodeproj/xcshareddata/xcschemes/rn599.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/rn599/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/rn599/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/rn599/Base.lproj/LaunchScreen.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/rn599/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/rn599/Images.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/rn599/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/rn599/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/rn599Tests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/rn599Tests/rn599Tests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../metro.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yarn.lock" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://$USER_HOME$/.m2/repository/com/henninghall/android/NumberPickerView/1.0.1/NumberPickerView-1.0.1-sources.jar!/cn/carbswang/android/numberpickerview/library/NumberPickerView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="942" column="29" selection-start-line="942" selection-start-column="16" selection-end-line="942" selection-end-column="29" />
+              <folding>
+                <element signature="e#42765#42766#0" expanded="true" />
+                <element signature="e#42805#42806#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>setsh</find>
+      <find>setshow</find>
+      <find>npv_ShowCount</find>
+      <find>set</find>
+      <find>SetShowCount</find>
+      <find>pix</find>
+      <find>pixel</find>
+      <find>px</find>
+      <find>dpToPx</find>
+      <find>adjusted</find>
+      <find>dptp</find>
+      <find>65</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>npv_ShownCount</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../node_modules/react-native-date-picker/android/src/main/java/com/henninghall/date_picker/wheels/Wheel.java" />
+        <option value="$PROJECT_DIR$/../node_modules/react-native-date-picker/android/src/main/java/com/henninghall/date_picker/wheelFunctions/SetShowCount.java" />
+        <option value="$PROJECT_DIR$/../node_modules/react-native-date-picker/android/build.gradle" />
+        <option value="$PROJECT_DIR$/../node_modules/react-native-date-picker/android/src/main/res/layout/datepicker_view.xml" />
+        <option value="$PROJECT_DIR$/../node_modules/react-native-date-picker/android/src/main/java/com/henninghall/date_picker/Utils.java" />
+        <option value="$PROJECT_DIR$/../node_modules/react-native-date-picker/android/src/main/java/com/henninghall/date_picker/Style.java" />
+        <option value="$PROJECT_DIR$/../node_modules/react-native-date-picker/android/src/main/java/com/henninghall/date_picker/DatePickerManager.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1087" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="device.picker.selection" value="ce10182a502f981f03" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="sync.plugin.last.upgrade.timestamp" value="1562516356145" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c1f529d-1235-48be-b6d3-6021d3b5dfdc" name="Default Changelist" comment="" />
+      <created>1562516285322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562516285322</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1087" height="877" extended-state="0" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3968105" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" />
+      <window_info anchor="bottom" id="Logcat" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/app/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/../node_modules/react-native-date-picker/android/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/../node_modules/react-native-date-picker/android/src/main/res/layout/datepicker_view.xml" />
+    <entry file="file://$PROJECT_DIR$/../node_modules/react-native-date-picker/android/src/main/java/com/henninghall/date_picker/wheelFunctions/SetShowCount.java" />
+    <entry file="file://$PROJECT_DIR$/../node_modules/react-native-date-picker/android/src/main/java/com/henninghall/date_picker/Utils.java" />
+    <entry file="file://$PROJECT_DIR$/../node_modules/react-native-date-picker/android/src/main/java/com/henninghall/date_picker/PickerView.java" />
+    <entry file="file://$PROJECT_DIR$/../node_modules/react-native-date-picker/android/src/main/java/com/henninghall/date_picker/wheels/Wheel.java" />
+    <entry file="file://$PROJECT_DIR$/../node_modules/react-native-date-picker/android/src/main/java/com/henninghall/date_picker/DatePickerPackage.java" />
+    <entry file="file://$PROJECT_DIR$/../node_modules/react-native-date-picker/android/src/main/java/com/henninghall/date_picker/Style.java" />
+    <entry file="file://$PROJECT_DIR$/../node_modules/react-native-date-picker/android/src/main/java/com/henninghall/date_picker/DatePickerManager.java" />
+    <entry file="jar://$USER_HOME$/.m2/repository/com/henninghall/android/NumberPickerView/1.0.1/NumberPickerView-1.0.1-sources.jar!/cn/carbswang/android/numberpickerview/library/NumberPickerView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="942" column="29" selection-start-line="942" selection-start-column="16" selection-end-line="942" selection-end-column="29" />
+          <folding>
+            <element signature="e#42765#42766#0" expanded="true" />
+            <element signature="e#42805#42806#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
