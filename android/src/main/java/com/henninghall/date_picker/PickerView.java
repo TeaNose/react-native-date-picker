@@ -1,14 +1,12 @@
 package com.henninghall.date_picker;
 
+import android.annotation.SuppressLint;
 import android.os.Build;
 import android.util.Log;
 import android.view.View;
+import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 
-import com.facebook.react.bridge.Arguments;
-import com.facebook.react.bridge.WritableMap;
-import com.facebook.react.uimanager.events.RCTEventEmitter;
-import com.henninghall.date_picker.wheelFunctions.AnimateToDate;
 import com.henninghall.date_picker.wheelFunctions.Refresh;
 import com.henninghall.date_picker.wheelFunctions.SetDate;
 import com.henninghall.date_picker.wheelFunctions.UpdateVisibility;
@@ -22,22 +20,21 @@ import com.henninghall.date_picker.wheels.MonthWheel;
 import com.henninghall.date_picker.wheels.Wheel;
 import com.henninghall.date_picker.wheels.YearWheel;
 
-import java.text.ParseException;
+import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Calendar;
 import java.util.Collection;
-import java.util.Date;
+import java.util.GregorianCalendar;
 import java.util.List;
 import java.util.Locale;
 import java.util.TimeZone;
 
-import cn.carbswang.android.numberpickerview.library.NumberPickerView;
-
 
 public class PickerView extends RelativeLayout {
 
+    public final LinearLayout wheelsWrapper;
     public SimpleDateFormat dateFormat;
     private HourWheel hourWheel;
     private DayWheel dayWheel;
@@ -59,11 +56,12 @@ public class PickerView extends RelativeLayout {
 
     public PickerView() {
         super(DatePickerManager.context);
+
         View rootView = inflate(getContext(), R.layout.datepicker_view, this);
         this.style = new Style(this);
         this.wheelOrderUpdater = new WheelOrderUpdater(this);
 
-        RelativeLayout wheelsWrapper = (RelativeLayout) rootView.findViewById(R.id.wheelsWrapper);
+        wheelsWrapper = (LinearLayout) rootView.findViewById(R.id.wheelsWrapper);
         wheelsWrapper.setWillNotDraw(false);
 
         locale = Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP ? Locale.forLanguageTag("en") : Locale.getDefault();
@@ -103,6 +101,7 @@ public class PickerView extends RelativeLayout {
             }
         });
     }
+
 
     public void setMinimumDate(String date) {
         minDate = new DateBoundary(this, date);
@@ -226,13 +225,27 @@ public class PickerView extends RelativeLayout {
         if (maxDate == null) return null;
         return maxDate.get();
     }
+
     public void setDateFormat(){
         dateFormat = new SimpleDateFormat(getDateFormatTemplate(), Locale.US);
     }
+
     public void update2DigitYearStart(Calendar selectedDate){
         Calendar cal = (Calendar) selectedDate.clone();
         cal.add(Calendar.YEAR, -50); // subtract 50 years to hit the middle of the century
         dateFormat.set2DigitYearStart(cal.getTime());
     }
+
+    private ArrayList<View> getVisibleWheelViewsInOrder(){
+        ArrayList<View> visibleWheels = new ArrayList<>();
+        for (int i = 0; i < wheelsWrapper.getChildCount(); i++){
+            View child = wheelsWrapper.getChildAt(i);
+            int visibility = child.getVisibility();
+            if (visibility == View.VISIBLE) visibleWheels.add(child);
+        }
+        return visibleWheels;
+    }
+
+
 
 }
