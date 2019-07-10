@@ -8,6 +8,7 @@ import android.widget.RelativeLayout;
 
 import com.henninghall.date_picker.wheelFunctions.Refresh;
 import com.henninghall.date_picker.wheelFunctions.SetDate;
+import com.henninghall.date_picker.wheelFunctions.SetShowCount;
 import com.henninghall.date_picker.wheelFunctions.UpdateVisibility;
 import com.henninghall.date_picker.wheelFunctions.WheelFunction;
 import com.henninghall.date_picker.wheels.AmPmWheel;
@@ -237,4 +238,21 @@ public class PickerView extends RelativeLayout {
         dateFormat.set2DigitYearStart(cal.getTime());
     }
 
+    public void setShownCountOnEmptyWheels(int shownCount) {
+        int[] ids = {
+                R.id.emptyStart,
+                R.id.empty1,
+                R.id.empty2,
+                R.id.empty3,
+                R.id.emptyEnd
+        };
+
+        for (int id : ids) {
+            NumberPickerView view = (NumberPickerView) findViewById(id);
+           if(view != null) view.setShownCount(shownCount);
+        }
+
+
+
+    }
 }
