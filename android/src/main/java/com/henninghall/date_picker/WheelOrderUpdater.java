@@ -1,6 +1,7 @@
 package com.henninghall.date_picker;
 
 import com.henninghall.date_picker.wheels.Wheel;
+import com.henninghall.date_picker.wheels.YearWheel;
 
 import java.util.ArrayList;
 import java.util.Locale;
@@ -17,11 +18,10 @@ public class WheelOrderUpdater
         if (mode != Mode.date) return;
 
         final ArrayList<Wheel> wheelOrder = this.localeToWheelOrder(locale);
-        int afterFirstEmptyWheelIndex = 1;
         pickerView.wheelsWrapper.removeView(wheelOrder.get(0).picker);
         pickerView.wheelsWrapper.removeView(wheelOrder.get(1).picker);
-        pickerView.wheelsWrapper.addView(wheelOrder.get(0).picker, afterFirstEmptyWheelIndex);
-        pickerView.wheelsWrapper.addView(wheelOrder.get(1).picker, afterFirstEmptyWheelIndex);
+        pickerView.wheelsWrapper.addView(wheelOrder.get(0).picker, 1); 
+        pickerView.wheelsWrapper.addView(wheelOrder.get(1).picker, 2);
     }
 
     private ArrayList<Wheel> localeToWheelOrder(final Locale locale) {
@@ -34,7 +34,6 @@ public class WheelOrderUpdater
             wheelList.add(this.pickerView.monthWheel);
             wheelList.add(this.pickerView.dateWheel);
         }
-
         return wheelList;
     }
 }

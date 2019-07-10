@@ -41,21 +41,6 @@ public class Utils {
         return getIsoUTCFormat().format(date.getTime());
     }
 
-    public static int getWheelHeight(View pickerView) {
-        return (int) TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP, 160, pickerView.getResources().getDisplayMetrics());
-    }
-
-    public static String localeToYmdPattern(Locale locale) {
-        DateFormat formatter = DateFormat.getDateInstance(DateFormat.SHORT, locale);
-        String pattern = ((SimpleDateFormat)formatter).toLocalizedPattern();
-        pattern = pattern.replaceAll("\\[", "");
-        pattern = pattern.replaceAll("]", "");
-        pattern = pattern.replaceAll(" ", "");
-        pattern = pattern.replaceAll("[.]", "/");
-        pattern = pattern.replaceAll("-", "/");
-        return pattern;
-    }
-
     public static boolean monthNameBeforeMonthDate(Locale locale){
             DateFormat df = DateFormat.getDateInstance(DateFormat.MEDIUM, locale);
             GregorianCalendar calendar = new GregorianCalendar();

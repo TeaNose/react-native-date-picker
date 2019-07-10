@@ -1,8 +1,7 @@
 package com.henninghall.date_picker;
 
-import android.annotation.SuppressLint;
 import android.os.Build;
-import android.util.Log;
+import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
@@ -20,13 +19,11 @@ import com.henninghall.date_picker.wheels.MonthWheel;
 import com.henninghall.date_picker.wheels.Wheel;
 import com.henninghall.date_picker.wheels.YearWheel;
 
-import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Calendar;
 import java.util.Collection;
-import java.util.GregorianCalendar;
 import java.util.List;
 import java.util.Locale;
 import java.util.TimeZone;
@@ -48,6 +45,7 @@ public class PickerView extends RelativeLayout {
     public MonthWheel monthWheel;
     public YearWheel yearWheel;
     private WheelOrderUpdater wheelOrderUpdater;
+    private EmptyWheelUpdater emptyWheelUpdater;
     public boolean requireDisplayValueUpdate = true;
     public TimeZone timeZone = TimeZone.getDefault();
     private DateBoundary minDate;
@@ -60,6 +58,7 @@ public class PickerView extends RelativeLayout {
         View rootView = inflate(getContext(), R.layout.datepicker_view, this);
         this.style = new Style(this);
         this.wheelOrderUpdater = new WheelOrderUpdater(this);
+        this.emptyWheelUpdater = new EmptyWheelUpdater(this);
 
         wheelsWrapper = (LinearLayout) rootView.findViewById(R.id.wheelsWrapper);
         wheelsWrapper.setWillNotDraw(false);
@@ -123,6 +122,7 @@ public class PickerView extends RelativeLayout {
         this.locale = locale;
         setDateFormat();
         wheelOrderUpdater.update(locale, mode);
+        emptyWheelUpdater.update(mode);
         requireDisplayValueUpdate = true;
     }
 
@@ -174,6 +174,7 @@ public class PickerView extends RelativeLayout {
         setDateFormat();
         applyOnAllWheels(new UpdateVisibility());
         wheelOrderUpdater.update(locale, mode);
+        emptyWheelUpdater.update(mode);
     }
 
     public Collection<Wheel> getVisibleWheels() {
@@ -235,17 +236,5 @@ public class PickerView extends RelativeLayout {
         cal.add(Calendar.YEAR, -50); // subtract 50 years to hit the middle of the century
         dateFormat.set2DigitYearStart(cal.getTime());
     }
-
-    private ArrayList<View> getVisibleWheelViewsInOrder(){
-        ArrayList<View> visibleWheels = new ArrayList<>();
-        for (int i = 0; i < wheelsWrapper.getChildCount(); i++){
-            View child = wheelsWrapper.getChildAt(i);
-            int visibility = child.getVisibility();
-            if (visibility == View.VISIBLE) visibleWheels.add(child);
-        }
-        return visibleWheels;
-    }
-
-
 
 }
